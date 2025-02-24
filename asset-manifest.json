@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cs450-a3/static/css/main.a526265b.css",
+    "main.js": "/cs450-a3/static/js/main.79432131.js",
+    "static/media/tips.csv": "/cs450-a3/static/media/tips.43007c7e472255eef549.csv",
+    "index.html": "/cs450-a3/index.html",
+    "main.a526265b.css.map": "/cs450-a3/static/css/main.a526265b.css.map",
+    "main.79432131.js.map": "/cs450-a3/static/js/main.79432131.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a526265b.css",
+    "static/js/main.79432131.js"
+  ]
+}
